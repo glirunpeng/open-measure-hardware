@@ -4,6 +4,12 @@
 
 <!-- Badges placeholder -->
 
+## 🌐 Language / 语言
+
+- [English](./docs/en/README.md)
+- [简体中文](./docs/zh/README.md)
+
+
 ## Table of Contents
 - [Features](#features)
 - [System Architecture](#system-architecture)
