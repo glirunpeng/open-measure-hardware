@@ -61,7 +61,7 @@ T-- Control HTTP -->A
 LICENSE
 README.md
 ```
-
+📎 **Note**： `hardware/pcb/PCB_2025-07-07.json` is a JLCEDA project file and can be opened directly on the [ JLCEDA platform](https://lceda.cn/) for PCB editing or prototyping order.
 ## Getting Started
 ### Prerequisites
 - **Hardware** assembled as per `/hardware/README`
