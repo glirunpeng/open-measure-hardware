@@ -1,0 +1,30 @@
+CERN Open Hardware Licence Version 2 – Strongly Reciprocal
+(CERN‑OHL‑S v2.0)
+
+Copyright © [2025] [LiRunPeng]
+
+This source describes open hardware and is released under the
+CERN‑OHL‑S v2.0 licence.
+
+You may reproduce, modify, and distribute the material (and products
+produced from it) provided that you:
+
+  1. **Make available** the complete, machine‑readable source of
+     this material and any modifications, including:
+        • schematic / PCB design files  
+        • BOM, Gerber, pick‑and‑place, 3‑D models  
+        • build & programming instructions
+
+  2. **License** any modifications and distributed products **under
+     CERN‑OHL‑S v2.0**; keep this notice intact.
+
+  3. **State changes**: add a notice in each file and in your
+     documentation describing what you changed and the date of change.
+
+This material is provided **“AS IS”** and **WITHOUT WARRANTY** of any
+kind, express or implied, including merchantability, satisfactory
+quality and fitness for a particular purpose.
+
+A copy of the full licence text should accompany this file.
+If not, see <https://ohwr.org/cernohl>.
+
