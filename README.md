@@ -121,7 +121,7 @@ Add a custom RTSP camera with URL above; choose **H.265** codec.
 Commands: `0x01` Tare, `0x02` Measure.
 
 ## License
-- **Hardware**: CERN‑OHL‑P v2.0 – see `/LICENSE-HW`
+- **Hardware**: CERN‑OHL‑S v2.0 – see `/LICENSE-HW`
 - **Software**: Apache 2.0 – see `/LICENSE`
 
 ## Contributing
