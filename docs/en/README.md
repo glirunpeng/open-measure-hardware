@@ -15,7 +15,6 @@
 - [Contributing](#contributing)
 - [Roadmap](#roadmap)
 - [Acknowledgements](#acknowledgements)
-- [中文说明](#中文说明)
 
 ## Features
 - **Optical length & width** measurement using a smartphone camera and pixel‑to‑real‑world calibration
@@ -136,8 +135,7 @@ PRs and issues welcome! Please read `CONTRIBUTING.md`.
 - HX711 library by Bogdan Necula  
 - RTSP Camera library by Pedro SG
 
-## 中文说明
-[README_zh.md](docs/README_zh.md)（即将推出）
+
 
 ---
 
