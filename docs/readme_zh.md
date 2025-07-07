@@ -59,7 +59,7 @@ README_zh.md       # 中文说明
 ```
 
 ---
-
+📎 **提示**： `hardware/pcb/PCB_2025-07-07.json` 为嘉立创 EDA 工程文件， 可直接在 [嘉立创 EDA 平台](https://lceda.cn/) 打开，进行 PCB 编辑或打样下单。
 ## 🚀 快速开始
 
 ### 安装准备
